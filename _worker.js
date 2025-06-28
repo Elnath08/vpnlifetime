@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "id-cloud.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "nugstial.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "vpnlifetime"; // Ganti dengan nama workers kalian
 const apiKey = "39c0ff4e6fb3fd52680cbd5c8cc9c72635f19"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "nugstial@gmail.com"; // Ganti dengan email yang kalian gunakan
